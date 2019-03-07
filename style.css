@@ -79,7 +79,7 @@ html, body {
 
     color: #121212;
     font-size: 30px;
-    text-align: right;
+    text-align: left;
 
     transition: opacity 1s linear;
 }
